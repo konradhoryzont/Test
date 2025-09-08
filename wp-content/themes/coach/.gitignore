@@ -1,0 +1,22 @@
+# WordPress core files (jeśli repo ma trzymać tylko motyw/plugin)
+wp-admin/
+wp-includes/
+wp-content/plugins/
+wp-content/themes/twenty*/
+
+# Uploads (duże, niepotrzebne w gicie)
+wp-content/uploads/
+
+# System pliki
+.DS_Store
+Thumbs.db
+
+# Konfiguracje lokalne
+wp-config.php
+
+# Logi
+*.log
+
+# Composer / Node
+vendor/
+node_modules/
