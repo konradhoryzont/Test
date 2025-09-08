@@ -65,7 +65,7 @@
                             fill="#0D0D0D" />
                         </svg>
                       </span>
-                      <a href="tel:18888383022">(64) 8342 1245</a>
+                      <a href="tel:18888383022">(64) 8342 12435</a>
                     </li>
                     <li class="item">
                       <span class="box-icon">
